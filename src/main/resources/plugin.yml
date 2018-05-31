@@ -1,0 +1,8 @@
+name: kinkbox
+version: 1.12.2-0.1.1
+main: com.kinkytugboat.kinkbox.Main
+
+commands:
+   kit:
+      description: Your description
+      usage: /kit
